@@ -1,5 +1,5 @@
 # TherapeuticPromptFramework
-A multi-prompt framework for enhancing AI models' therapeutic responses
+A multi-prompt framework for enhancing AI models' therapeutic responses 
 # Therapeutic Prompt Framework
 
 A structured multi-prompt system for enhancing AI language models' responses to psychological and therapeutic scenarios.
