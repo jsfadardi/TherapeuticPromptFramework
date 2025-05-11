@@ -27,4 +27,4 @@ Each prompt in the framework serves a specific function in the chain. See indivi
 ## Citation
 
 If you use this framework in your research or applications, please cite: Fadardi, J.S. (2023). Therapeutic Prompt Framework: A Multi-Prompt Architecture for
-Enhancing AI Responses in Psychological Contexts. https://github.com/JSalehiFadardi/TherapeuticPromptFramework
+Enhancing AI Responses in Psychological Contexts. https://github.com/jsfadardi/TherapeuticPromptFramework
