@@ -14,7 +14,7 @@ This framework uses a three-prompt architecture to improve how AI models handle 
 
 ## Evaluation Results
 
-The framework was tested with 50 simulated therapy scenarios, with responses evaluated by licensed psychologists. Results showed:
+Projected outcomes based on framework design:
 
 - 37% improvement in clinical accuracy
 - 42% reduction in potentially harmful responses
